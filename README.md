@@ -4,6 +4,10 @@ Backend Engineer (PHP / Go) | Микросервисы | Highload
 
 ---
 
+![snake](https://github.com/luttcm/luttcm/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🚀 Обо мне
 
 Backend-разработчик с опытом 3+ года. Занимаюсь разработкой и развитием высоконагруженных систем, интеграций и микросервисной архитектуры.
