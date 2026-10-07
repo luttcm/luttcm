@@ -4,7 +4,7 @@ Backend Engineer (PHP / Go) | Микросервисы | Highload
 
 ---
 
-![snake](https://github.com/luttcm/luttcm/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/luttcm/luttcm/output/github-contribution-grid-snake.svg)
 
 ---
 
